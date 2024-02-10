@@ -1,11 +1,11 @@
 //CONFIG
-var BOT_TOKEN = "6740318718:AAFItZJNcnnCJlOTVetLgyzF4qvQePO13GE" //BOT TOKEN ANDA
-var SS_URL = "https://docs.google.com/spreadsheets/d/1R_w9H1m_VSHeTcyDF4Qs1aNQNRwaVmoTvEw26l_VB0c/edit#gid=0" //URL SPREADSHEET
+var BOT_TOKEN = "MASUKKAN DISINI" //BOT TOKEN ANDA
+var SS_URL = "MASUKKAN URL SPREADSHEET DISINI" //URL SPREADSHEET
 var SHEET_NAME = "laporan" //NAMA SHEET
-// 	1284005215
+
 var USERS = [
-	1284005215, 
-  1437861266
+	xxxxxxxx, 
+  xxxxxxxx
 ] //CHAT ID, bisa lebih dari 1
 
 
